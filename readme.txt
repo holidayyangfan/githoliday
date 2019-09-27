@@ -5,4 +5,4 @@ modify this file again ！time:09261000
 first
 second
 Creating a new branch is quick.dev branch.
-Creating a new branch is quick & simple.
+Creating a new branch is quick &and simple.
